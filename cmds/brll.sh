@@ -1,6 +1,6 @@
-echo Welcome to Brell Shell
-echo Copyright Void Chicken 2017
-while true
+/bin/echo Welcome to Brell Shell
+/bin/echo Copyright Void Chicken 2017
+while 1=1
 do
   printf ">"
   read $IN
